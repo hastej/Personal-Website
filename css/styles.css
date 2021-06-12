@@ -1,35 +1,23 @@
 body {
   margin : 0 0 0 0;
 }
-.navigation-bar{
-  background-color: #4f5d61;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 10;
+
+.arrow{
+  height: 100px;
+  width: 200px;
+  background-color: #4b5d67;
+  margin-top: 40px;
 }
 
-.navbar-brand{
-  color : white;
-  font-size: 30px;
-  margin-left: 50px;
+.arrowbutton{
+  background-color: #4b5d67;
+  border: none;
+  color: white;
 }
 
-.navbar-nav{
-  margin-left: auto;
-  margin-right: 50px;
-}
-
-.nav-item{
-  color : white;
-
-  font-size: 18px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
 
 .portion{
-  height : 750px;
+  height : 754px;
 }
 
 .header{
@@ -37,11 +25,14 @@ body {
   color : white;
   padding-top: 250px;
   text-align: center;
+
 }
 
 .name{
   margin-top : 0 ;
-  font-size: 350%
+  font-size: 350%;
+  font-family:serif;
+  font-weight: bold;
 }
 
 .heading-text{
@@ -120,4 +111,8 @@ footer{
 .felement{
   text-align: center;
 
+}
+
+.timeline-card{
+  background-color: white;
 }

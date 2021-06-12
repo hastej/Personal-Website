@@ -1,0 +1,123 @@
+body {
+  margin : 0 0 0 0;
+}
+.navigation-bar{
+  background-color: #4f5d61;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.navbar-brand{
+  color : white;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.navbar-nav{
+  margin-left: auto;
+  margin-right: 50px;
+}
+
+.nav-item{
+  color : white;
+
+  font-size: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.portion{
+  height : 750px;
+}
+
+.header{
+  background-color: #4b5d67;
+  color : white;
+  padding-top: 250px;
+  text-align: center;
+}
+
+.name{
+  margin-top : 0 ;
+  font-size: 350%
+}
+
+.heading-text{
+  font-size: 170%
+}
+
+.portion1{
+  background-color: #e1e8eb;
+  padding-left: 40px;
+}
+
+.portion2{
+  background-color: #aaaaaa;
+}
+
+.portion3{
+  background-color: #e1e8eb;
+}
+
+.subheading{
+  font-family: 'Baloo Tammudu 2', cursive;
+  text-decoration: underline;
+  color : #125d98;
+  padding-top: 20px;
+  font-size : 37px;
+}
+
+.discription{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.card-about{
+  margin: 25px 30px 0 30px;
+  padding-left: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.skill-set-type{
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.portion1{
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+}
+
+li{
+  font-family: 'Changa', sans-serif;
+  font-size: 20px;
+}
+h3{
+  font-family: 'Pangolin', cursive;
+}
+
+.portion2{
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+ul{
+  margin : 0;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  background-color: #4f5d61;
+  padding-top: 10px;
+}
+
+.felement{
+  text-align: center;
+
+}
